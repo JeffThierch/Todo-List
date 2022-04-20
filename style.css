@@ -13,6 +13,7 @@ body {
 
 main {
   width: max-content;
+  height: 80vh;
   margin: 10vh auto;
 }
 
