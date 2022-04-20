@@ -27,14 +27,14 @@ For this project the following technologies were used:
   git clone git@github.com:JeffThierch/Todo-List.git
   ~~~
 
-3. In the root of the project change the .env_example file to .env
+2. In the root of the project change the .env_example file to .env
 
-4. (Optional) - Change the environment variables.
+3. (Optional) - Change the environment variables.
 
-5. In the root of project run the commands:
+4. In the root of project run the commands:
 
   ~~~bash
   docker-compose up --build
   ~~~
 
-6. If everything is configured correctly, after the build process you can simply access the application.
+5. If everything is configured correctly, after the build process you can simply access the application.
